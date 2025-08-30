@@ -1,0 +1,48 @@
+fee_receipt": {
+                "_id": "68a804f89124ad90aab36fd7",
+                "fee_payment_amount": 1,
+                "re_apply": false,
+                "refund_status": "No Refund",
+                "paid_by_student": 0,
+                "paid_by_government": 0,
+                "set_off_status": "Not Set off",
+                "receipt_edited_status": false,
+                "fee_update": false,
+                "visible_status": "Not Hide",
+                "is_deleted": false,
+                "other_multiple_fees": [
+                    "689ab9d6e6eb7d5021068422"
+                ],
+                "normal": 0,
+                "society": 0,
+                "edited_by": false,
+                "fee_heads": [
+                    {
+                        "head_id": "67938604da6e34d3180b15a1",
+                        "head_name": "Marvel Fees",
+                        "paid_fee": 1,
+                        "applicable_fee": 1,
+                        "remain_fee": 0,
+                        "fee_structure": null,
+                        "master": "67938604da6e34d3180b15a1",
+                        "original_paid": 1,
+                        "is_society": false,
+                        "is_miscellenous": false,
+                        "_id": "68a804f89124ad90aab36feb",
+                        "created_at": "2025-08-22T05:49:44.353Z"
+                    }
+                ],
+                "created_at": "2025-08-22T05:49:44.292Z",
+                "receipt_generated_from": "BY_FINANCE_MANAGER",
+                "fee_payment_mode": "Payment Gateway - PG",
+                "fee_structure": null,
+                "student_name": "ssrtg",
+                "fee_transaction_date": "2025-08-22T05:49:44.353Z",
+                "finance": "63ccf1e90b456d475f50f0e5",
+                "invoice_count": "123456-8-2025-427",
+                "order_history": "68a804f89124ad90aab36fcf",
+                "admission_fees_number": "RP8940ZD",
+                "bank_txn_reference": "523492431507",
+                "__v": 0,
+                "receipt_file": "bhavans-college-ssrtg-1755841784431-miscellaneous-receipt.pdf"
+            }
