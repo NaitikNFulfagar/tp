@@ -1,3 +1,4 @@
+{
 fee_receipt": {
                 "_id": "68a804f89124ad90aab36fd7",
                 "fee_payment_amount": 1,
@@ -46,3 +47,5 @@ fee_receipt": {
                 "__v": 0,
                 "receipt_file": "bhavans-college-ssrtg-1755841784431-miscellaneous-receipt.pdf"
             }
+
+}
